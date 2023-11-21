@@ -29,5 +29,5 @@ In PostgreSQL, it doesn't happen on any isolation level.
 # Phantom
 # Percona:
 ![phantom.png](results/percona/phantom.png)
-P# ostgres:
+# Postgres:
 ![phantom.png](results/postgres/phantom.png)
